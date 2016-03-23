@@ -1,0 +1,28 @@
+{
+  "name": "hipchat-calculator",
+  "version": "1.0.0",
+  "description": "Hipchat integration for calculations",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FSDevelop/hipchat-calculator.git"
+  },
+  "keywords": [
+    "hipchat",
+    "integration",
+    "calculator"
+  ],
+  "author": "Federico Sosa",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/FSDevelop/hipchat-calculator/issues"
+  },
+  "homepage": "https://github.com/FSDevelop/hipchat-calculator#readme"
+}
